@@ -1,0 +1,42 @@
+[Sam Kirkhorn]
+Information Science Student at Christopher Newport University
+Washington DC-Baltimore Area
+
+[Summary]
+I’m a junior at Christopher Newport University, majoring in
+Information Science. I am passionate about technology and eager
+to apply my skills in a real-world setting. I’m currently seeking
+internship opportunities to gain hands-on experience. Driven, detail oriented, and a collaborative team player, I’m excited to contribute to
+innovative projects and learn from industry professionals.
+
+[Experience]
+Christopher Newport University
+Student Mailroom Assistant
+October 2025 - Present (4 months)
+Managed the campus mail and package system by efficiently logging and
+updating statuses in the university’s digital tracking system, coordinating the
+receipt and distribution of incoming and outgoing items, and collaborating
+with team members to ensure organized, timely delivery across the campus
+community.
+Crystal Aquatics Inc.
+Lifeguard - Head Manager
+May 2021 - August 2025 (4 years 4 months)
+United States
+As Head Lifeguard Manager, I was responsible for overseeing daily pool
+operations, ensuring a safe and efficient environment for both staff and guests.
+I managed the lifeguard team, created work schedules, and maintained strict
+adherence to safety and facility standards.
+
+[Education]
+Christopher Newport University
+Bachelor's degree, Information Science/Studies · (August 2023 - May 2027)
+
+[Projects]
+Automated E-Commerce Checkout Process using Selenium
+Developed a Python Selenium automation script to simulate a full checkout flow,
+including login, cart management, and purchase completion, implementing custom
+wait functions and error handling to enhance reliability and runtime performance,
+while programmatically parsing and extracting key pricing totals using XPath
+
+[Skills]
+Python, Selenium Webdriver, Github
