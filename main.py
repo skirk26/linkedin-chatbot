@@ -1,7 +1,3 @@
-"""
-main.py - Run the LinkedIn chatbot
-"""
-
 from chatbot import loader, chunker, embeddings, engine
 
 
@@ -39,4 +35,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
