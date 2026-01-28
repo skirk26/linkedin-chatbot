@@ -1,6 +1,0 @@
-sentence-transformers
-faiss-cpu
-langchain_text_splitters
-numpy
-python-dotenv
-requests
