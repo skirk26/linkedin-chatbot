@@ -20,13 +20,16 @@ such as "What projects has Sam worked on?" or "Tell me about Sam's Python experi
 
 
 Prereqs:
-    Python 3.11+
-    pip
+    Python 3.11+,
+    pip   
+
 Dependencies:
-    pip install -r requirements.txt
+    pip install -r requirements.txt   
+
 Groq API key:
-    https://console.groq.com/keys
+    https://console.groq.com/keys   
+
 Tips for best chat results:
-    Be very specific with questions
-    Use keywords from profile
+    Be very specific with questions,
+    Use keywords from profile,
     Ask concrete, simple questions
