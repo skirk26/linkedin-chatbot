@@ -10,7 +10,7 @@ class ChatbotEngine:
     def __init__(self):
         self.groq_api_key = os.getenv("GROQ_API_KEY")
         self.model_url = "https://api.groq.com/openai/v1/chat/completions"
-        self.model_name = "llama-3.1-8b-instant"  # Fast and free model
+        self.model_name = "llama-3.1-8b-instant" 
 
     def ask(self, question, c=3):
         context_chunks = embeddings.search(question, c=c)
@@ -38,4 +38,5 @@ class ChatbotEngine:
             result = response.json()
             return result["choices"][0]["message"]["content"]
         else:
+
             return f"Error: {response.status_code} - {response.text}"
